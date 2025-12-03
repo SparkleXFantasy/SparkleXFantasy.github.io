@@ -5,9 +5,9 @@ navbar_name: "Xiufeng Song"
 positions:
 # - name: MS at Shanghai Jiao Tong University
 - name: Shanghai Jiao Tong University
-  logo: /assets/images/badges/logo_SJTU.png  # Logo is optional
+  logo: assets/images/badges/logo_SJTU.png  # Logo is optional
 - name: Shanghai Artificial Intelligence Laboratory
-  logo: /assets/images/badges/logo_pjlab.png
+  logo: assets/images/badges/logo_pjlab.png
 
 email: "akikaze@sjtu.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -59,13 +59,13 @@ portrait_caption: >-
 
 education:
 - name: Shanghai Jiao Tong University
-  logo: /assets/images/badges/logo_SJTU.png
+  logo: assets/images/badges/logo_SJTU.png
   position: >- 
     SJTU Multimedia Lab <br/>
     MSc in Computer Science and Technology
   date: Sep. 2023 - present
 - name: Shanghai Jiao Tong University
-  logo: /assets/images/badges/logo_SJTU.png
+  logo: assets/images/badges/logo_SJTU.png
   position: >- 
     B.S. in Computer Science and Technology
   date: Sep. 2019 - Jun. 2023
@@ -80,7 +80,7 @@ experience:
 - name: Shanghai Artificial Intelligence Laboratory
   position: >-
     Research Intern, advised by Prof. <a href="http://leibai.site" target="_blank">Lei Bai</a>
-  logo: /assets/images/badges/logo_pjlab.png
+  logo: assets/images/badges/logo_pjlab.png
   date: Sep. 2024 - present
 
 honors:
