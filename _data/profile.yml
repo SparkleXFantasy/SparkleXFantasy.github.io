@@ -1,18 +1,19 @@
-primary_name: "Your Name"
+primary_name: "Xiufeng Song"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Xiufeng Song"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+# - name: MS at Shanghai Jiao Tong University
+- name: Shanghai Jiao Tong University
+  logo: /assets/images/badges/logo_SJTU.png  # Logo is optional
+- name: Shanghai Artificial Intelligence Laboratory
+  logo: /assets/images/badges/logo_pjlab.png
 
-
-email: "your@email.com"
+email: "akikaze@sjtu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: qO93EgIAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: SparkleXFantasy
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,29 +23,52 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi, I am Xiufeng Song, a three-year MSc. student in Shanghai Jiao Tong University, supervised by Prof. <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/">Xiaohong Liu</a>. Currently, I work as a research intern at Shanghai Artificial Intelligence Laboratory, advised by Prof. <a href="http://leibai.site" target="_blank">Lei Bai</a>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research involves building embodied agents and intelligence on optimal decision-making, strategic planning, and generalizable manipulation, including:
+    <ul>
+        <li>
+            Robotic planning and manipulation;
+        </li>
+        <li>
+            Autonomous and collaborative multi-agent intelligence;
+        </li>
+        <li>
+            World models for bridging Sim2Real gaps.
+        </li>
+    </ul>
   </p>
-
+  Feel free to contact me for collaboration if you share a similar interest.
+  <p>
+  Service:
+    <ul>
+      <li>
+        Conference reviewer: AAAI 2025, ICLR 2025, CVPR 2025.
+      </li>
+      <li>
+        Journal reviwer: TPAMI.
+      </li>
+    </ul>
+  </p>
+  
+  
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo of Xiufeng Song.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Shanghai Jiao Tong University
+  logo: /assets/images/badges/logo_SJTU.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    SJTU Multimedia Lab <br/>
+    MSc in Computer Science and Technology
+  date: Sep. 2023 - present
+- name: Shanghai Jiao Tong University
+  logo: /assets/images/badges/logo_SJTU.png
+  position: >- 
+    B.S. in Computer Science and Technology
+  date: Sep. 2019 - Jun. 2023
 
 # experience:
 # - name: Peking University
@@ -52,10 +76,13 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+experience:
+- name: Shanghai Artificial Intelligence Laboratory
+  position: >-
+    Research Intern, advised by Prof. <a href="http://leibai.site" target="_blank">Lei Bai</a>
+  logo: /assets/images/badges/logo_pjlab.png
+  date: Sep. 2024 - present
+
+honors:
+- name: Best Paper Award at CVPR 2025 MEIS Workshop
+  date: 2025
